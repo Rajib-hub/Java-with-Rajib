@@ -1,8 +1,8 @@
 
 import java.util.Scanner; 
 class Employee{
-    int salary;
-    String name;
+    private int salary;
+    private String name;
     public int getsalary(){
         return salary;
     }
